@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    color: yellow;
+    background-color: black;
+}
+
+input {
+    background-color: #99ccff;
+    text-align: center;
+}
+
+button {
+    background-color: #ffff66;
+    text-align: center;
+}
